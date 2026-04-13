@@ -21,6 +21,5 @@ public class ReservaHoteles {
         System.out.println("diasEstancia = " + diasEstancia);
         System.out.println("TARIFA_DIARIA = " + TARIFA_DIARIA);
         System.out.println("tieneVistaAlMar = " + tieneVistaAlMar);
-        //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
     }
 }
